@@ -1,4 +1,3 @@
 # Semaphore
-huehue
 
-http://cs.gettysburg.edu/~franpe02/TrafficLightsWeb/game.html
+A python vesion of the semaphore game
